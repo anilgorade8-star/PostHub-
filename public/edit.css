@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    color: aliceblue;
+    background-color: #292929;
+}
+
+.container {
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    background-color: rgb(70, 70, 70);
+    box-shadow: 1px 2px 10px rgb(57, 57, 57);
+    color: aliceblue;
+}
+
+.Submit {
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+    background-color: rgb(69, 194, 69);
+    color: white;
+
+}
+
+textarea {
+    background-color: bisque;
+}
