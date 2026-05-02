@@ -14,7 +14,7 @@ A simple web application built with Node.js and Express that allows users to cre
 
 - **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)
 - **Templating Engine**: [EJS](https://ejs.co/)
-- **Styling**: Vanilla CSS
+- **Styling**:  CSS
 - **Utilities**: 
   - `uuid` (for unique post identifiers)
   - `method-override` (to support PATCH and DELETE in HTML forms)
